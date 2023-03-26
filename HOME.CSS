@@ -1,0 +1,412 @@
+body{
+  margin: auto;
+}
+
+/*Header Section*/
+header{
+    height: 138px;
+    /*width: 100%;*/
+    /*border: 3px solid hotpink;*/
+    background-color: rgb(12, 11, 11);
+    
+
+   }
+   
+
+
+/*Main Content*/
+ #content{
+   width:100%;
+   /* margin-left:8.5%; */
+    margin-top:-3%; 
+   
+    display: inline-block; 
+   
+ }
+
+ #brand{
+ float: left;
+ color: white;
+ font-size: 30px;
+ margin-top: 1%;
+ margin-left: 1%;
+ width: 15%;
+
+ }
+ 
+ #menus{
+	 float: right;
+    width: 80%;
+    margin-top: 31px;
+	margin-left: 50px;
+ }
+ 
+ .brandlogo{
+  height: 80;
+  float: left;
+  
+ }
+
+
+ #spotify{
+  
+  color: white;
+  font-size: 27px;
+  margin-right: 2%;
+  margin-top: 11%;
+  
+
+
+ }
+
+ 
+
+ #Signup{
+  float: right;
+  color: white;
+  font-size: 25px;
+  margin-top: 2%;
+  margin-right: 5%;
+ }
+
+ #download{
+  float: right;
+  color: white;
+  font-size: 25px;
+  margin-top: 2%;
+  margin-right: 5%;
+ }
+
+
+ #support{
+  float: right;
+  color: white;
+  font-size: 25px;
+  margin-top: 2%;
+  margin-right: 5%;
+ }
+
+ #premium{
+  float: right;
+  color: white;
+  font-size: 25px;
+  margin-top: 2%;
+  margin-right: 5%;
+ }
+
+ #Login{
+  float: right;
+  color: white;
+  font-size: 25px;
+  margin-top: 3.5%;
+  margin-right: 5%;
+ }
+ 
+
+  .filter{
+   min-height: 1064px;
+  color:white;
+   width: 20%;
+   background-color: black;
+   /*border: 3px solid greenyellow;*/
+  float: left;
+  }
+
+
+
+ 
+
+  
+
+  /* #Home icon{
+  
+    float: left;
+    font-size: 20px;
+    margin-top: 1%;
+    margin-left: 2%;
+   
+  } */
+
+
+
+
+
+
+ /*Focus*/
+  #focus{
+    display: flow-root;
+    /*height: 675px;*/
+    width: 80%;
+    /*border: 7px solid orange;*/
+    margin-left:20%;
+    background-color:rgb(130, 203, 134);
+  
+  
+    
+    
+  }
+
+  .sleepheading{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    display: block;
+    margin-top: 7px;
+  }
+
+  .Block2{
+    eight: 300px;
+    width: 20%;
+    margin-left: 4%;
+    margin-top: 3%;
+    /*border: 2px solid #000000;*/
+    float: left;
+    background-color: #2e2b2b; 
+    box-shadow: 10px 15px 10px gray;
+  }
+ 
+  .Block2:hover{
+    transform: scale(1.1);
+  }
+  
+  .component3{
+    width: 30px;
+    height: 30px;
+  }
+ 
+  .component3 >img{
+    width: 200px;
+    height: 700%;
+  }
+
+  .component4{
+    width: 20%;
+    margin-left: 25%;
+    margin-top: 85%;
+  }
+
+  .comphead{
+    font-size: 18px;
+    color:white;
+    font-weight: bold;
+    
+  }
+  
+  .compsubhead{
+    font-size: 18px;
+    color: white;
+    margin-left: 8px;
+    margin-bottom: 5px;
+  
+    
+  }
+
+  .playlistheading{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    display: block;
+    font height: 15px;
+  }
+
+  .Block{
+    height: 300px;
+    width: 20%;
+    margin-left: 4%;
+    margin-top: 3%;
+    /*border: 2px solid #000000;*/
+    float: left;
+    background-color: #2e2b2b;
+    box-shadow: 10px 15px 10px gray;
+  
+  }
+
+  .Block:hover{
+    transform: scale(1.1);
+  }
+
+  .component1{
+    width: 30px;
+    height: 30px;
+  }
+ 
+  .component1 >img{
+    width: 200px;
+    height: 720%;
+  }
+
+  .component2{
+    width: 20%;
+    margin-left: 25%;
+    margin-top: 85%;
+  }
+
+  .comphead{
+    font-size: 18px;
+    color:white;
+    font-weight: bold;
+    
+  }
+  
+  .compsubhead{
+    font-size: 18px;
+    color: white;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    
+  }
+
+  .focusheading{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    /* font-variant-position: sub; */
+    /* margin-left: 5%; */
+    
+    display: block;
+  }
+ 
+  .tileContainer{
+    height: 300px;
+    width: 20%;
+    margin-left: 4%;
+    margin-top: 3%;
+    /*border: 2px solid #000000;*/
+    float: left;
+    background-color: #2e2b2b;
+    box-shadow: 10px 15px 10px gray;
+  
+}
+
+.tileContainer:hover{
+  transform: scale(1.1);
+
+}
+
+.tilecomponent1{
+width: 20px;
+height: 30px;
+}
+
+.tilecomponent1 >img{
+  width: 200px;
+  height: 720%;
+}
+
+.tilecomponent2{
+  /* width: 20%; */
+  margin-left: 25%;
+  margin-top: 85%;
+  
+
+}
+  
+.compHeading{
+  font-size: 20px;
+  color:white;
+  font-weight: bold;
+  
+}
+
+.compsubHeading{
+  font-size: 18px;
+  color: white;
+  
+}
+
+/*Playlist Section
+ #playlist{
+    height: 300px;
+    width: 70%;
+    border: 7px solid brown;
+    margin-left: 28%;
+    margin-top: 33%;
+    background-color: black;*/
+    
+
+
+
+ /*Footer Section*/
+    footer{
+    height: 80px;
+    width: 100%;
+    background-color: rgb(133, 65, 193);
+    /*border: 5px solid blueviolet;*/
+  
+    
+
+  }
+
+  .footText{
+    /* margin-left: 30px; */
+	padding: 27px;
+  }
+  
+  .imgHome{
+	width: 25px;
+    height: 22px;
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+	
+	#Home{
+		    margin-left: 10px;
+    font-size: 23px;
+    margin-top: 10px;
+	}
+
+  #Search{
+    margin-left:10px;
+    font-size: 23px;
+    margin-top: 20px;
+  }
+	
+  #library{
+    margin-left:10px;
+    font-size: 23px;
+    margin-top: 20px;
+  }
+
+  #playlist{
+    margin-left:10px;
+    font-size: 23px;
+    margin-top: 20px;
+  }
+
+  #songs
+  {
+    margin-left:10px;
+    font-size: 23px;
+    margin-top: 20px;
+  }
+
+
+  #preview{
+    float: left;
+     width: 80%;
+     margin-top: 31px;
+   margin-left: 50px;
+  }
+ 
+  
+ 
+  #Signup{
+   float: right;
+   color: white;
+   font-size: 25px;
+   margin-top: 2%;
+   margin-right: 5%;
+  }
+  
+
+  
+
+#cook{
+	margin-top:620px;
+}
+
+
+ /* .abc{
+	  width:20%;
+	  float:left;
+  }*/
